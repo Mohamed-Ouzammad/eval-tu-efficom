@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1738756155251" clover="3.2.0">
+  <project timestamp="1738756155252" name="All files">
+    <metrics statements="34" coveredstatements="33" conditionals="23" coveredconditionals="22" methods="6" coveredmethods="6" elements="63" coveredelements="61" complexity="0" loc="34" ncloc="34" packages="1" files="1" classes="1"/>
+    <file name="function.js" path="C:\Users\medam\eval-tu-efficom\src\function.js">
+      <metrics statements="34" coveredstatements="33" conditionals="23" coveredconditionals="22" methods="6" coveredmethods="6"/>
+      <line num="7" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="8" count="2" type="stmt"/>
+      <line num="10" count="4" type="stmt"/>
+      <line num="20" count="7" type="cond" truecount="2" falsecount="0"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="23" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="26" count="5" type="stmt"/>
+      <line num="27" count="8" type="cond" truecount="4" falsecount="0"/>
+      <line num="28" count="2" type="stmt"/>
+      <line num="30" count="6" type="stmt"/>
+      <line num="32" count="3" type="stmt"/>
+      <line num="40" count="2" type="stmt"/>
+      <line num="50" count="1" type="stmt"/>
+      <line num="51" count="1" type="stmt"/>
+      <line num="52" count="1" type="stmt"/>
+      <line num="62" count="4" type="cond" truecount="4" falsecount="0"/>
+      <line num="63" count="2" type="stmt"/>
+      <line num="65" count="2" type="stmt"/>
+      <line num="66" count="2" type="stmt"/>
+      <line num="67" count="2" type="stmt"/>
+      <line num="68" count="2" type="stmt"/>
+      <line num="70" count="2" type="stmt"/>
+      <line num="71" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="72" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="73" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="75" count="2" type="cond" truecount="1" falsecount="1"/>
+      <line num="76" count="0" type="stmt"/>
+      <line num="79" count="2" type="stmt"/>
+      <line num="80" count="2" type="stmt"/>
+      <line num="81" count="16" type="stmt"/>
+      <line num="82" count="16" type="stmt"/>
+      <line num="84" count="2" type="stmt"/>
+      <line num="87" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
